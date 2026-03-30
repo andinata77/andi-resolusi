@@ -3,4 +3,4 @@ andi resolusi
 - Belajar developer andorid dari flutter
 - Membuat aplikasi yang bermanfaat
 - Membuat pendaftaran produk dari aplikasi android
-- Untuk meningkatkan skill dalam bekerja
+- Membuat aplikasi baru
