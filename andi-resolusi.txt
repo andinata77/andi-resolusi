@@ -1,0 +1,4 @@
+andi resolusi
+- Konsisten untuk belajar 3 jam sehari bahkan lebih
+- Belajar developer andorid dari flutter
+- Membuat aplikasi yang bermanfaat
