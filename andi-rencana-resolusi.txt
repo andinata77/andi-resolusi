@@ -3,6 +3,7 @@ Rencana resolusi
 - Javacript
   -  ES6
   - Framwork Javascrip
+- Struktur Data Dasar
 - PHP Framework
 - Interview
 - Blog
