@@ -3,6 +3,8 @@ Rencana resolusi
 - Javacript
   -  ES6
   - Framwork Javascrip
+  - Vu
+  - React
 - Struktur Data Dasar
 - PHP Framework
   - Blajar Laravel
