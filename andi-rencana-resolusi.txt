@@ -5,5 +5,7 @@ Rencana resolusi
   - Framwork Javascrip
 - Struktur Data Dasar
 - PHP Framework
+  - Blajar Laravel
 - Interview
 - Blog
+- Python
